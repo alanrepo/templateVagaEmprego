@@ -83,3 +83,53 @@ requisitos da vaga.
 - Nome: Skynet
 - Segmento: Tecnologia de Informação & Robótica
 - Porte: Média - entre 99 e 200 funcionários
+
+### Exemplo completo
+
+**Programador ArnoldC |  Sunnyvale - CA | Presencial com Home Office**
+
+##### Vaga:
+Programador Junior em linguagem ArnoldC
+
+##### Remuneração:
+U$60.000 / ano
+
+##### Local da vaga:
+Presencial e Remoto ( Conforme demanda do projeto )
+
+##### Horário de trabalho:
+Prazos negociáveis de acordo com demanda do projeto.
+
+##### Atividades Profissionais:
+Desenvolver aplicativos voltados para projeto experimental de I.A. baseado em CPU futurista semi destruída recuperada - Projeto em parceria com o Exército Americano. Uso da linguagem ArnoldC. Facilidade em trabalhar com equipes multidisciplinares e ambientes explosivos.
+
+##### Requisitos:
+
+**Experiência:**
+Domínio na linguagem ArnoldC e desejável conhecimento em linguagens / paradigmas de programação específicas para desenvolvimento nas áres militares e de robótica. Conhecimento em Banco de dados: SQL Server. Programação: C++, HTML, Java, JavaScript, jQuery. Facilidade em lidar com situações estressantes e paradoxos ligados à viagens no tempo.
+
+**Idiomas:**
+-Inglês fluente.
+-Noções de Espanhol.
+
+**Escolaridade:**
+-Ensino Médio / Superior completo.
+
+##### Outras informações: 
+Eventualmente podem ocorrer questionamentos morais decorrentes de incidentes temporais que trazem revelações à tona geradoras de fortes crises ideológicas.
+
+##### Regime de contratação: 
+-Freelancer ou Regime com SSN.
+
+##### Benefícios da vaga: 
+- Casona bonita com piscina e paredes de vidro, altamente visíveis para mulheres com rifles
+- Acesso à tecnologias avançadíssimas do futuro e pedaços de robôs assassinos.
+
+##### Nível: 
+- Profissional especializado com curso superior.
+- Especialista notório sem formação específica e/ou formalizada.
+
+##### Dados da empresa: 
+- Nome: Cyberdyne Systems
+- Segmento: Tecnologia de Informação & Robótica
+- Porte: Média - entre 99 e 200 funcionários
