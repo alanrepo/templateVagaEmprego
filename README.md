@@ -1,5 +1,7 @@
-##### Título da vaga para o post:
-[Nome da vaga] | [Cidade -UF] ou [Home Office] | 
+#### Título da vaga para o post:
+(exemplo completo ao final)
+
+** [Nome da vaga] | [Cidade -UF] ou [Home Office] **
 
 ##### Nome da vaga:
 	- [ Programador PHP ]
