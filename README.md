@@ -80,11 +80,11 @@ requisitos da vaga.
 
 ##### Dados da Empresa
 
-- Nome: Skynet
+- Nome: Sistemas Inteligentes do Mundo
 - Segmento: Tecnologia de Informação & Robótica
 - Porte: Média - entre 99 e 200 funcionários
 
-### Exemplo completo
+### Um Exemplo completo
 
 **Programador ArnoldC |  Sunnyvale - CA | Presencial com Home Office**
 
